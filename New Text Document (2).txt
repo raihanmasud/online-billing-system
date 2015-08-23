@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<scriptlanguage ="JavaScript">
+currentDate=newDate()
+with(currentDate)
+document.write(getDate())
+</script>
+</body>
+</html>
